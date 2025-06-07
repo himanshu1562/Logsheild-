@@ -1,0 +1,75 @@
+Failed password
+Invalid user
+authentication failure
+authentication error
+Connection closed by
+Did not receive identification string
+reverse mapping checking getaddrinfo
+POSSIBLE BREAK-IN ATTEMPT
+maximum authentication attempts exceeded
+ROOT LOGIN REFUSED
+Illegal user
+Unknown user
+User not known to the underlying authentication module
+pam_unix
+nmap scan
+Nikto
+sqlmap
+masscan
+acunetix
+wpscan
+XSS attempt
+script>alert
+UNION SELECT
+SELECT * FROM
+OR 1=1
+admin' --
+../../
+../
+cmd.exe
+/etc/passwd
+/etc/shadow
+/boot.ini
+\..\..\..\..
+<iframe
+<svg
+base64_decode
+eval(
+alert(
+script src=
+onerror=
+onload=
+load_file
+into outfile
+shell_exec
+curl
+wget
+nc -nv
+telnet
+ncat
+phpinfo()
+/wp-admin
+/wp-login
+/administrator
+/login.php
+/wp-content
+user-agent: evil
+GET /?id=
+GET /?q=
+GET /?search=
+POST /?q=
+POST /?search=
+POST /?input=
+exec(
+system(
+drop table
+update set
+insert into
+password=
+token=
+login failed
+login incorrect
+Access denied
+403 forbidden
+404 not found
+malicious
